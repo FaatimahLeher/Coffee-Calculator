@@ -2,6 +2,8 @@
 Coffee Calculator UI
 A modern, dark-themed calculator interface designed for coffee enthusiasts. This project focuses on clean UI/UX and custom CSS components.
 
+[View Live Demo Link https://faatimahleher.github.io/Coffee-Calculator/]
+
  Features
 Custom CSS Graphics: The coffee cup and "Result" indicator are built entirely with CSS.
 
