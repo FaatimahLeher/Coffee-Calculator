@@ -1,16 +1,21 @@
-# Coffee-Calculator
-Coffee Calculator UI
-A modern, dark-themed calculator interface designed for coffee enthusiasts. This project focuses on clean UI/UX and custom CSS components.
+# ☕ Coffee Machine Calculator
 
-[View Live Demo Link https://faatimahleher.github.io/Coffee-Calculator/]
+An aesthetic function coffee themes calculator
 
- Features
-Custom CSS Graphics: The coffee cup and "Result" indicator are built entirely with CSS.
+[View Live Demo](https://faatimahleher.github.io/Coffee-Calculator/)
 
-Modern Layout: Uses CSS Grid for the keypad and Flexbox for responsiveness.
+## Features
 
-Tactile Design: Interactive buttons with hover and active states.
+* **Fully Responsive Design**: Fluid layouts using CSS Grid and Flexbox, ensuring a perfect experience on mobile, tablet, and desktop.
+* **Tactile Neumorphic Controls**: Buttons designed with realistic physical depth, using complex box-shadows and active state transforms.
+* **Glassmorphic Interface**: Semi-transparent "frosted glass" panels that maintain high readability over dynamic, animated backgrounds.
+* 
 
-Built With
-HTML5
-CSS3 (Grid, Flexbox, Custom Variables)
+## Technical Stack
+* **Frontend**: HTML5 & Semantic Tags
+* **Styling**: CSS3 (Custom Variables, Keyframe Animations, Radial Gradients)
+* **Logic**: Vanilla JavaScript 
+* **Fonts**: Google Fonts 
+
+
+
